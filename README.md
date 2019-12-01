@@ -1,6 +1,9 @@
 # Contiguous_Memory_Allocation_Simulator
 This program illustrates how processes are allocation in continuous memory using a linked list.
 
+- [ ] Completed
+- [x] In progress
+
 
 ## The program responds to four different requests:
   1. Request for a contiguous block of memory
